@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/MyList_tst.dir/main.cpp.o CMakeFiles/MyList_tst.dir/test.cpp.o  -o MyList_tst  ../lib/libgtest.a -lpthread 
